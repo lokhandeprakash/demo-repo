@@ -1,2 +1,2 @@
 # demo-repo
-demo repo for python projrct
+demo repo for python project
